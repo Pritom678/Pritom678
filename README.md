@@ -66,32 +66,4 @@ My long-term goal is to become a tech lead and build impactful web applications.
   <img src="https://streak-stats.demolab.com?user=Pritom678" height="150" />
 </p>
 
----
-
-# 📌 Pinned Projects  
-
-## 1️⃣ **finEase-client**  
-**Overview:**  
-A personal finance management website that helps users track their daily expenses easily.
-
-🔗 **Live Link:** https://boisterous-pavlova-194228.netlify.app/  
-
-🧰 **Tech Stack:**  
-React, Tailwind, Firebase, JavaScript
-
-✨ **Main Features:**  
-- Tracks user expenses  
-- Clean UI  
-- Expense visualization (optional future)  
-
-📦 **Dependencies Used:**  
-- react  
-- react-router  
-- firebase  
-- tailwindcss  
-
-💻 **Run Locally:**  
-```bash
-npm install
-npm run dev
 

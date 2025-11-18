@@ -1,10 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./banner.png" alt="Pritom Das — MERN Stack Developer" />
+  <img src="./assets/github-header-banner.png" alt="Pritom Das — MERN Stack Developer" />
 </p>
 
-<h1 align="center">Hi, I'm Pritom Das 👋</h1>
-<h3 align="center">MERN Stack Developer</h3>
+<!-- <h1 align="center">Hi, I'm Pritom Das 👋</h1>
+<h3 align="center">MERN Stack Developer</h3> -->
 
 ---
 

@@ -71,9 +71,9 @@ My long-term goal is to become a tech lead and build impactful web applications.
 
 | Project | Description | Features | Live Demo |
 |---------|-------------|---------|-----------|
-| **Dragon News Website** <br> ![Dragon News](./DragonNews.png) | A dynamic news website built using **React, React Router, HTML, and CSS**. Fetches latest news from categories like **sports, politics, entertainment, international**. | - Dynamic routing <br> - Responsive UI <br> - Bookmark functionality <br> - Newspaper-style layout | [View Live](https://deluxe-begonia-843679.netlify.app/category/1) |
-| **Personal Finance Manager** <br> ![Personal Finance](./FinEase.png) | A web app to manage personal finances, built with **React and Firebase**. Helps users track income and expenses and analyze spending habits. | - Add income and expenses <br> - Categorize transactions <br> - View analytics and charts <br> - User authentication | [View Live](https://boisterous-pavlova-194228.netlify.app/) |
-| **GreenNest Store** <br> ![GreenNest](./GreenNest.png) | An e-commerce website for plants, built using **React and Firebase**. Users can browse products, add to cart, and manage accounts. | - Product listings and categories <br> - Cart and checkout <br> - User accounts/login <br> - Responsive design | [View Live](https://green-nest-project-8ed1a.web.app/) |
+| **Dragon News Website** <br> ![Dragon News](./assets/DragonNews.png) | A dynamic news website built using **React, React Router, HTML, and CSS**. Fetches latest news from categories like **sports, politics, entertainment, international**. | - Dynamic routing <br> - Responsive UI <br> - Bookmark functionality <br> - Newspaper-style layout | [View Live](https://deluxe-begonia-843679.netlify.app/category/1) |
+| **Personal Finance Manager** <br> ![Personal Finance](./assets/FinEase.png) | A web app to manage personal finances, built with **React and Firebase**. Helps users track income and expenses and analyze spending habits. | - Add income and expenses <br> - Categorize transactions <br> - View analytics and charts <br> - User authentication | [View Live](https://boisterous-pavlova-194228.netlify.app/) |
+| **GreenNest Store** <br> ![GreenNest](./assets/GreenNest.png) | An e-commerce website for plants, built using **React and Firebase**. Users can browse products, add to cart, and manage accounts. | - Product listings and categories <br> - Cart and checkout <br> - User accounts/login <br> - Responsive design | [View Live](https://green-nest-project-8ed1a.web.app/) |
 
 
 

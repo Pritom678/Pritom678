@@ -51,7 +51,7 @@ My long-term goal is to become a tech lead and build impactful web applications.
 
 ## 🔗 Social Links  
 - 🌐 **GitHub:** https://github.com/Pritom678  
-- 💼 **LinkedIn:** 
+- 💼 **LinkedIn:** https://www.linkedin.com/in/pritom-das-985846319/
 - 🌍 **Portfolio:**  
 
 ---

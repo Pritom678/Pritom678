@@ -53,68 +53,143 @@ I’m actively seeking **Junior / Entry-Level Full-Stack or React Developer role
 
 ---
 
-## 💼 Featured Projects
+# Featured Projects
 
-### 🩺 **Care.xyz — Care Service Booking Platform**
-A real-world care service platform where users can book caretaking services for **children, elderly, and home care**, manage bookings, and track service history.
+A collection of full-stack web applications showcasing skills in modern web development, including authentication, database management, responsive design, and role-based functionality.
 
-**Tech:** Next.js, NextAuth.js, MongoDB, Tailwind CSS  
+## 🩺 Care.xyz — Care Service Booking Platform
 
-**Key Features**
-- Secure authentication & protected routes
-- Booking and service tracking system
-- Role-based logic
-- Responsive, SEO-friendly UI
+### Project Overview
+Care.xyz is a real-world care service booking platform that connects families with verified caregivers. Users can book in-home services for children, elderly individuals, and general home care, manage bookings, and track service history with an emphasis on trust, safety, and compassion.
 
-🔗 **Live Demo:** https://carexyz-ten.vercel.app/
+### Live Demo
+[https://carexyz-ten.vercel.app/](https://carexyz-ten.vercel.app/)
+
+### Technologies Used
+- Next.js
+- NextAuth.js
+- MongoDB
+- Tailwind CSS
+
+### Core Features
+- Secure user authentication with protected routes
+- Service browsing and booking system (child care, elderly care, home care)
+- Booking management and service history tracking
+- Role-based access and logic
+- Responsive, SEO-friendly user interface
+- Testimonials and caregiver statistics for building trust
+
+### Dependencies Used
+Key dependencies: `next`, `react`, `next-auth`, `mongoose`, `tailwindcss` (refer to `package.json` for complete list).
+
+### How to Run Locally
+1. Clone the repository: `git clone <repository-url>`
+2. Navigate to the project directory: `cd carexyz`
+3. Install dependencies: `npm install`
+4. Set up environment variables (e.g., MongoDB URI, NextAuth secrets) in `.env.local`
+5. Run the development server: `npm run dev`
+6. Open [http://localhost:3000](http://localhost:3000)
 
 ---
 
-### 💳 **LoanLink — Loan Management System**
-A full-stack MERN application that manages loan applications, approvals, and administrative operations.
+## 💳 LoanLink — Loan Management System
 
-**Tech:** React, Node.js, Express.js, MongoDB, TanStack Query  
+### Project Overview
+LoanLink is a full-stack MERN application that streamlines loan applications, approvals, repayments, and administrative operations with specialized dashboards for borrowers, managers, and admins.
 
-**Key Features**
-- Borrower, Manager & Admin dashboards
-- Loan application & approval workflow
+### Live Demo
+[https://loanlinkph.netlify.app/](https://loanlinkph.netlify.app/)
+
+### Technologies Used
+- React
+- Node.js
+- Express.js
+- MongoDB
+- TanStack Query
+
+### Core Features
+- Role-based dashboards (Borrower, Manager, Admin)
+- Loan application submission and approval workflow
 - Secure authentication
-- Real-time data fetching and caching
+- Real-time data fetching with caching
+- Administrative tools for loan oversight
 
-🔗 **Live Demo:** https://loanlinkph.netlify.app/
+### Dependencies Used
+Key dependencies: `react`, `@tanstack/react-query`, `express`, `mongoose`, JWT for authentication (refer to `package.json`).
+
+### How to Run Locally
+1. Clone the repository: `git clone <repository-url>`
+2. Install dependencies in both client and server folders: `npm install`
+3. Set up environment variables (e.g., MongoDB URI, JWT secret) in `.env` files
+4. Start the backend: `npm start` (server folder)
+5. Start the frontend: `npm start` (client folder)
+6. Access the app at [http://localhost:3000](http://localhost:3000)
 
 ---
 
-### 📊 **Personal Finance Manager**
-A full-stack finance tracking application that helps users manage income, expenses, and analyze spending habits.
+## 📊 Personal Finance Manager
 
-**Tech:** React, Node.js, Express.js, MongoDB, Firebase Authentication  
+### Project Overview
+A full-stack application for tracking personal finances, enabling users to log income and expenses, categorize transactions, and gain analytical insights into spending habits.
 
-**Key Features**
-- Add, edit, and delete income & expenses
+### Live Demo
+[https://boisterous-pavlova-194228.netlify.app/](https://boisterous-pavlova-194228.netlify.app/)
+
+### Technologies Used
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Firebase Authentication
+
+### Core Features
+- Add, edit, and delete income/expense transactions
 - Transaction categorization
-- Secure user authentication
-- RESTful backend API with Express & MongoDB
-- Spending analysis and insights
+- Secure user authentication via Firebase
+- RESTful backend API
+- Spending analysis dashboards and insights
 
-🔗 **Live Demo:** https://boisterous-pavlova-194228.netlify.app/
+### Dependencies Used
+Key dependencies: `react`, `firebase`, `express`, `mongoose`, charting libraries if applicable (refer to `package.json`).
 
----
-
-### 🌱 **GreenNest Store**
-An e-commerce platform for plant products with cart functionality and user account management.
-
-**Tech:** React, Firebase  
-
-**Key Features**
-- Product browsing and categories
-- Cart and checkout flow
-- User authentication
-- Responsive UI
-
-🔗 **Live Demo:** https://green-nest-project-8ed1a.web.app/
+### How to Run Locally
+1. Clone the repository: `git clone <repository-url>`
+2. Install dependencies in client and server folders: `npm install`
+3. Configure Firebase and MongoDB in environment variables
+4. Start backend: `npm start` (server)
+5. Start frontend: `npm start` (client)
+6. Visit [http://localhost:3000](http://localhost:3000)
 
 ---
+
+## 🌱 GreenNest Store
+
+### Project Overview
+An e-commerce platform specialized in plant products, featuring product browsing, cart management, checkout flow, and user account management.
+
+### Live Demo
+[https://green-nest-project-8ed1a.web.app/](https://green-nest-project-8ed1a.web.app/)
+
+### Technologies Used
+- React
+- Firebase
+
+### Core Features
+- Product browsing with categories
+- Shopping cart and checkout process
+- User authentication and account management
+- Responsive design
+
+### Dependencies Used
+Key dependencies: `react`, `react-router-dom`, `firebase` (refer to `package.json`).
+
+### How to Run Locally
+1. Clone the repository: `git clone <repository-url>`
+2. Navigate to the project: `cd greennest`
+3. Install dependencies: `npm install`
+4. Set up Firebase configuration
+5. Run the app: `npm start`
+6. Open [http://localhost:3000](http://localhost:3000)
 
 ## 🔗 Connect With Me
 - 💼 **LinkedIn:** https://www.linkedin.com/in/pritom-das-985846319/

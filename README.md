@@ -59,6 +59,8 @@ A collection of full-stack web applications showcasing skills in modern web deve
 
 ## 🩺 Care.xyz — Care Service Booking Platform
 
+![Care.xyz Homepage](./assets/og-image.png)
+
 ### Project Overview
 Care.xyz is a real-world care service booking platform that connects families with verified caregivers. Users can book in-home services for children, elderly individuals, and general home care, manage bookings, and track service history with an emphasis on trust, safety, and compassion.
 
@@ -93,6 +95,8 @@ Key dependencies: `next`, `react`, `next-auth`, `mongoose`, `tailwindcss` (refer
 ---
 
 ## 💳 LoanLink — Loan Management System
+
+![LoanLink Homepage](./assets/LoanLink.png)
 
 ### Project Overview
 LoanLink is a full-stack MERN application that streamlines loan applications, approvals, repayments, and administrative operations with specialized dashboards for borrowers, managers, and admins.
@@ -129,6 +133,8 @@ Key dependencies: `react`, `@tanstack/react-query`, `express`, `mongoose`, JWT f
 
 ## 📊 Personal Finance Manager
 
+![FinEase Homepage](./assets/FinEase.png)
+
 ### Project Overview
 A full-stack application for tracking personal finances, enabling users to log income and expenses, categorize transactions, and gain analytical insights into spending habits.
 
@@ -163,6 +169,8 @@ Key dependencies: `react`, `firebase`, `express`, `mongoose`, charting libraries
 ---
 
 ## 🌱 GreenNest Store
+
+![GreenNest Homepage](./assets/GreenNest.png)
 
 ### Project Overview
 An e-commerce platform specialized in plant products, featuring product browsing, cart management, checkout flow, and user account management.

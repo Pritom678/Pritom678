@@ -131,32 +131,36 @@ Key dependencies: `react`, `@tanstack/react-query`, `express`, `mongoose`, JWT f
 
 ---
 
-## 📊 Personal Finance Manager
+## 📊 FinEase – Personal Finance Manager with Dashboard
 
 ![FinEase Homepage](./assets/FinEase.png)
 
 ### Project Overview
-A full-stack application for tracking personal finances, enabling users to log income and expenses, categorize transactions, and gain analytical insights into spending habits.
+FinEase is a full-stack personal finance management application designed to help users take control of their money effortlessly. Users can log incomes and expenses, categorize transactions, and visualize their financial habits with intuitive dashboards. The newly added **dashboard** provides interactive charts, summaries, and insights, making it easier to track spending patterns, savings, and overall financial health at a glance.
+
+With FinEase, users can:
+- Easily monitor daily, weekly, and monthly expenses
+- Gain actionable insights through visual analytics
+- Make informed decisions to save and budget effectively
 
 ### Live Demo
 [https://boisterous-pavlova-194228.netlify.app/](https://boisterous-pavlova-194228.netlify.app/)
 
 ### Technologies Used
-- React
-- Node.js
-- Express.js
-- MongoDB
-- Firebase Authentication
+- Frontend: React, Chart.js, Tailwind CSS
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Authentication: Firebase Authentication
 
 ### Core Features
 - Add, edit, and delete income/expense transactions
-- Transaction categorization
-- Secure user authentication via Firebase
-- RESTful backend API
-- Spending analysis dashboards and insights
+- Categorize transactions for detailed analysis
+- Secure user authentication and profile management
+- Interactive dashboards with spending charts, summaries, and insights
+- RESTful backend API for data management
 
 ### Dependencies Used
-Key dependencies: `react`, `firebase`, `express`, `mongoose`, charting libraries if applicable (refer to `package.json`).
+Key dependencies: `react`, `firebase`, `express`, `mongodb`, `chart.js` (for analytics), and others as per `package.json`.
 
 ### How to Run Locally
 1. Clone the repository: `git clone <repository-url>`
@@ -165,6 +169,7 @@ Key dependencies: `react`, `firebase`, `express`, `mongoose`, charting libraries
 4. Start backend: `npm start` (server)
 5. Start frontend: `npm start` (client)
 6. Visit [http://localhost:3000](http://localhost:3000)
+
 
 ---
 

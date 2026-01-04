@@ -206,7 +206,7 @@ Key dependencies: `react`, `react-router-dom`, `firebase` (refer to `package.jso
 6. Open [http://localhost:3000](http://localhost:3000)
 
 ## 🔗 Connect With Me
-- 💼 **LinkedIn:** https://www.linkedin.com/in/pritom-das-985846319/
+- 💼 **LinkedIn:** www.linkedin.com/in/pritom1722002
 - 🌐 **GitHub:** https://github.com/Pritom678
 - 🌍 **Portfolio:** Coming soon
 

@@ -133,7 +133,8 @@ Key dependencies: `react`, `@tanstack/react-query`, `express`, `mongoose`, JWT f
 
 ## 📊 FinEase – Personal Finance Manager with Dashboard
 
-![FinEase Homepage](./assets/FinEase.png)
+![FinEase Homepage](./assets/FinEase1.png)
+![FinEase Homepage](./assets/FinEase2.png)
 
 ### Project Overview
 FinEase is a full-stack personal finance management application designed to help users take control of their money effortlessly. Users can log incomes and expenses, categorize transactions, and visualize their financial habits with intuitive dashboards. The newly added **dashboard** provides interactive charts, summaries, and insights, making it easier to track spending patterns, savings, and overall financial health at a glance.

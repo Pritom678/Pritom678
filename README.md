@@ -208,7 +208,7 @@ Key dependencies: `react`, `react-router-dom`, `firebase` (refer to `package.jso
 ## 🔗 Connect With Me
 - 💼 **LinkedIn:** www.linkedin.com/in/pritom1722002
 - 🌐 **GitHub:** https://github.com/Pritom678
-- 🌍 **Portfolio:** Coming soon
+- 🌍 **Portfolio:** https://portfoliopritom.netlify.app/
 
 ---
 

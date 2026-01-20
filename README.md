@@ -96,8 +96,8 @@ Key dependencies: `next`, `react`, `next-auth`, `mongoose`, `tailwindcss` (refer
 
 ## 💳 LoanLink — Loan Management System
 
-![LoanLink Homepage](./assets/LoanLink(2).png)
-![LoanLink Homepage](./assets/LoanLink(3).png)
+![LoanLink Homepage](./assets/LoanLink2.png) ![LoanLink Homepage](./assets/LoanLink3.png)
+
 
 ### Project Overview
 LoanLink is a full-stack MERN application that streamlines loan applications, approvals, repayments, and administrative operations with specialized dashboards for borrowers, managers, and admins.

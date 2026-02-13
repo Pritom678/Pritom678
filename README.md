@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./assets/github-header-banner.png" alt="Pritom Das — Full Stack Developer" />
+  <img src="./assets/banner.png" alt="Pritom Das — Full Stack Developer" />
 </p>
 
 ---

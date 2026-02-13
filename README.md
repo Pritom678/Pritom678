@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./assets/banner.png" alt="Pritom Das — Full Stack Developer" />
+  <img src="./assets/banner1.png" alt="Pritom Das — Full Stack Developer" />
 </p>
 
 ---

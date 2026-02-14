@@ -84,14 +84,6 @@ Care.xyz is a real-world care service booking platform that connects families wi
 ### Dependencies Used
 Key dependencies: `next`, `react`, `next-auth`, `mongoose`, `tailwindcss` (refer to `package.json` for complete list).
 
-### How to Run Locally
-1. Clone the repository: `git clone <repository-url>` 
-2. Navigate to the project directory: `cd carexyz` 
-3. Install dependencies: `npm install` 
-4. Set up environment variables (e.g., MongoDB URI, NextAuth secrets) in `.env.local` 
-5. Run the development server: `npm run dev` 
-6. Open [http://localhost:3000](http://localhost:3000)
-
 ---
 
 ## 💳 LoanLink — Loan Management System
@@ -121,14 +113,6 @@ LoanLink is a full-stack MERN application that streamlines loan applications, ap
 
 ### Dependencies Used
 Key dependencies: `react`, `@tanstack/react-query`, `express`, `mongoose`, JWT for authentication (refer to `package.json`).
-
-### How to Run Locally
-1. Clone the repository: `git clone <repository-url>` 
-2. Install dependencies in both client and server folders: `npm install` 
-3. Set up environment variables (e.g., MongoDB URI, JWT secret) in `.env` files
-4. Start the backend: `npm start` (server folder)
-5. Start the frontend: `npm start` (client folder)
-6. Access the app at [http://localhost:3000](http://localhost:3000)
 
 ---
 
@@ -164,55 +148,8 @@ With FinEase, users can:
 ### Dependencies Used
 Key dependencies: `react`, `firebase`, `express`, `mongodb`, `chart.js` (for analytics), and others as per `package.json`.
 
-### How to Run Locally
-1. Clone the repository: `git clone <repository-url>` 
-2. Install dependencies in client and server folders: `npm install` 
-3. Configure Firebase and MongoDB in environment variables
-4. Start backend: `npm start` (server)
-5. Start frontend: `npm start` (client)
-6. Visit [http://localhost:3000](http://localhost:3000)
-
 ---
 
-## 🎮 SideQuest — Gamified Learning Platform
-
-![SideQuest Homepage](./assets/sidequest-banner.png)
-
-### Project Overview
-SideQuest is an innovative gamified learning platform that transforms education into an engaging quest-based experience. Users can create, complete, and share learning quests while earning XP points, building streaks, and tracking their progress through a modern, interactive interface.
-
-### Live Demo
-[https://sidequest-next.vercel.app/](https://sidequest-next.vercel.app/)
-
-### Technologies Used
-- Next.js 16 (App Router)
-- NextAuth.js
-- MongoDB
-- Tailwind CSS
-- Framer Motion
-- React Hot Toast
-
-### Core Features
-- **Quest Creation System** - Users can design and publish custom learning quests
-- **Gamification Elements** - XP points, achievement badges, and progress tracking
-- **User Authentication** - Secure login/signup with JWT sessions and protected routes
-- **Dashboard Analytics** - Track learning progress, streaks, and achievements
-- **Modern UI/UX** - Smooth animations, responsive design, and intuitive navigation
-- **Profile Management** - User profiles with statistics and settings
-- **Quest Categories** - Organized quests by difficulty and subject areas
-
-### Dependencies Used
-Key dependencies: `next`, `react`, `next-auth`, `mongoose`, `tailwindcss`, `framer-motion`, `react-hot-toast` (refer to `package.json` for complete list).
-
-### How to Run Locally
-1. Clone the repository: `git clone <repository-url>` 
-2. Navigate to the project directory: `cd sidequest-next` 
-3. Install dependencies: `npm install` 
-4. Set up environment variables (e.g., MongoDB URI, NextAuth secrets) in `.env.local` 
-5. Run the development server: `npm run dev` 
-6. Open [http://localhost:3000](http://localhost:3000)
-
----
 
 ## 🔗 Connect With Me
 - 💼 **LinkedIn:** www.linkedin.com/in/pritom1722002

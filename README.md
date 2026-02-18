@@ -154,7 +154,7 @@ Key dependencies: `react`, `firebase`, `express`, `mongodb`, `chart.js` (for ana
 ## 🔗 Connect With Me
 - 💼 **LinkedIn:** www.linkedin.com/in/pritom1722002
 - 🌐 **GitHub:** https://github.com/Pritom678
-- 🌍 **Portfolio:** https://portfoliopritom.netlify.app/
+- 🌍 **Portfolio:** https://portfolio-rho-eight-4xjy2gct5h.vercel.app/
 
 ---
 

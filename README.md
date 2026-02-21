@@ -1,169 +1,97 @@
 <!-- Banner -->
-<p align="center">
-  <img src="./assets/banner1.png" alt="Pritom Das — Full Stack Developer" />
-</p>
+<img src="./assets/banner1.png" width="100%" />
+
+<br/>
+
+<!-- Animated Typing Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&width=600&lines=PRITOM+DAS;Full-Stack+Developer;MERN+%7C+Next.js+Engineer;Building+Production-Ready+Apps" />
 
 ---
 
-## 👋 Hi, I'm Pritom Das  
-**Junior Full-Stack Developer (MERN | Next.js)**  
+### 👨‍💻 About Me
 
-I build **real-world web applications** with a strong focus on usability, clean UI, and scalable backend logic.  
-I enjoy turning ideas into products people can actually use — from service booking platforms to dashboard-driven systems.
+Full-stack developer focused on building scalable, real-world applications  
+with clean UI, secure authentication, and dashboard architecture.
 
-I'm actively seeking **Junior / Entry-Level Full-Stack or React Developer roles**, where I can learn from experienced engineers and contribute to meaningful products.
-
----
-
-## 🚀 What I'm Currently Working On
-- 🔭 Building a **care service booking platform** using **Next.js & NextAuth**
-- 🌱 Deepening my understanding of **full-stack architecture**
-- 🎨 Improving **UI/UX, accessibility, and performance**
-- 🛒 Planning a **modern e-commerce platform**
-- 🎯 Long-term goal: Become a **confident full-stack engineer** and future tech lead
+- 🚀 Passionate about production-ready systems  
+- 🔐 Love building authentication flows  
+- 📊 Interested in scalable backend design  
+- 🎯 Goal: Become a strong full-stack engineer  
 
 ---
 
-## 🧠 Tech Stack & Tools
+### ⚙️ Tech Stack
 
-### Frontend
-- React.js  
-- Next.js (App Router)  
-- Tailwind CSS  
-- JavaScript (ES6+)  
-
-### Backend & Authentication
-- Node.js  
-- Express.js  
-- MongoDB  
-- NextAuth.js  
-- Firebase Authentication  
-
-### Data & State Management
-- TanStack Query (React Query)
-
-### Tools & Workflow
-- Git & GitHub  
-- REST APIs  
-- Vercel & Netlify Deployment  
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nextjs,nodejs,express,mongodb,firebase,reactquery,git,github" height="40"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,firebase,git,github" />
 
 ---
 
-# Featured Projects
+### 🧠 Core Expertise
 
-A collection of full-stack web applications showcasing skills in modern web development, including authentication, database management, responsive design, and role-based functionality.
-
-## 🩺 Care.xyz — Care Service Booking Platform
-
-![Care.xyz Homepage](./assets/og-image.png)
-
-### Project Overview
-Care.xyz is a real-world care service booking platform that connects families with verified caregivers. Users can book in-home services for children, elderly individuals, and general home care, manage bookings, and track service history with an emphasis on trust, safety, and compassion.
-
-### Live Demo
-[https://carexyz-ten.vercel.app/](https://carexyz-ten.vercel.app/)
-
-### Technologies Used
-- Next.js
-- NextAuth.js
-- MongoDB
-- Tailwind CSS
-
-### Core Features
-- Secure user authentication with protected routes
-- Service browsing and booking system (child care, elderly care, home care)
-- Booking management and service history tracking
-- Role-based access and logic
-- Responsive, SEO-friendly user interface
-- Testimonials and caregiver statistics for building trust
-
-### Dependencies Used
-Key dependencies: `next`, `react`, `next-auth`, `mongoose`, `tailwindcss` (refer to `package.json` for complete list).
+- Authentication & Authorization (JWT / NextAuth)
+- Role-Based Dashboard Systems
+- REST API Architecture
+- Full-Stack Deployment (Vercel / Netlify)
+- UI/UX Focused Frontend Development
 
 ---
 
-## 💳 LoanLink — Loan Management System
-
-![LoanLink Homepage](./assets/LoanLink2.png) ![LoanLink Homepage](./assets/LoanLink3.png)
-
-
-### Project Overview
-LoanLink is a full-stack MERN application that streamlines loan applications, approvals, repayments, and administrative operations with specialized dashboards for borrowers, managers, and admins.
-
-### Live Demo
-[https://loanlinkph.netlify.app/](https://loanlinkph.netlify.app/)
-
-### Technologies Used
-- React
-- Node.js
-- Express.js
-- MongoDB
-- TanStack Query
-
-### Core Features
-- Role-based dashboards (Borrower, Manager, Admin)
-- Loan application submission and approval workflow
-- Secure authentication
-- Real-time data fetching with caching
-- Administrative tools for loan oversight
-
-### Dependencies Used
-Key dependencies: `react`, `@tanstack/react-query`, `express`, `mongoose`, JWT for authentication (refer to `package.json`).
+# 🚀 Projects
 
 ---
 
-## 📊 FinEase – Personal Finance Manager with Dashboard
+## 🎧 AudioPulse  
+**Premium Audio E-Commerce Platform**
 
-![FinEase Homepage](./assets/FinEase1.png)
-![FinEase Homepage](./assets/FinEase2.png)
+Stack: `Next.js` `TypeScript` `Node.js` `MongoDB` `JWT` `Cloudinary`
 
-### Project Overview
-FinEase is a full-stack personal finance management application designed to help users take control of their money effortlessly. Users can log incomes and expenses, categorize transactions, and visualize their financial habits with intuitive dashboards. The newly added **dashboard** provides interactive charts, summaries, and insights, making it easier to track spending patterns, savings, and overall financial health at a glance.
+- Admin dashboard with full product CRUD  
+- Secure authentication system  
+- Dynamic cart with real-time updates  
 
-With FinEase, users can:
-- Easily monitor daily, weekly, and monthly expenses
-- Gain actionable insights through visual analytics
-- Make informed decisions to save and budget effectively
-
-### Live Demo
-[https://boisterous-pavlova-194228.netlify.app/](https://boisterous-pavlova-194228.netlify.app/)
-
-### Technologies Used
-- Frontend: React, Chart.js, Tailwind CSS
-- Backend: Node.js, Express.js
-- Database: MongoDB
-- Authentication: Firebase Authentication
-
-### Core Features
-- Add, edit, and delete income/expense transactions
-- Categorize transactions for detailed analysis
-- Secure user authentication and profile management
-- Interactive dashboards with spending charts, summaries, and insights
-- RESTful backend API for data management
-
-### Dependencies Used
-Key dependencies: `react`, `firebase`, `express`, `mongodb`, `chart.js` (for analytics), and others as per `package.json`.
+🔗 Live: (add link)  
+🔗 Code: (add repo)
 
 ---
 
+## 🩺 Care.xyz  
+**Care Service Booking Platform**
 
-## 🔗 Connect With Me
-- 💼 **LinkedIn:** www.linkedin.com/in/pritom1722002
-- 🌐 **GitHub:** https://github.com/Pritom678
-- 🌍 **Portfolio:** https://portfoliopritom.netlify.app/
+Stack: `Next.js` `NextAuth` `MongoDB` `Tailwind`
+
+- Secure booking system  
+- Protected routes  
+- Role-based access logic  
+
+🔗 Live: https://carexyz-ten.vercel.app/
 
 ---
 
-## 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pritom678&show_icons=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pritom678&layout=compact" height="150" />
-</p>
+## 💳 LoanLink  
+**Loan Management Dashboard**
+
+Stack: `React` `Node.js` `Express` `MongoDB`
+
+- Multi-role dashboards  
+- Loan approval workflow  
+- Secure backend API  
+
+🔗 Live: https://loanlinkph.netlify.app/
+
+---
+
+### 📈 Activity
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pritom678&theme=github_dark" />
+
+---
+
+<br/>
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pritom678" height="150" />
+  <a href="https://www.linkedin.com/in/pritom1722002">LinkedIn</a> •
+  <a href="https://github.com/Pritom678">GitHub</a> •
+  <a href="https://portfoliopritom.netlify.app/">Portfolio</a>
 </p>

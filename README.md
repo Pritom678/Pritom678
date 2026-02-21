@@ -49,8 +49,8 @@ Stack: `Next.js` `TypeScript` `Node.js` `MongoDB` `JWT` `Cloudinary`
 - Secure authentication system  
 - Dynamic cart with real-time updates  
 
-🔗 Live: (add link)  
-🔗 Code: (add repo)
+🔗 Live: https://audiopluse.vercel.app/  
+🔗 Code: https://github.com/Pritom678/audioPulse
 
 ---
 
@@ -64,6 +64,7 @@ Stack: `Next.js` `NextAuth` `MongoDB` `Tailwind`
 - Role-based access logic  
 
 🔗 Live: https://carexyz-ten.vercel.app/
+🔗 Code: https://github.com/Pritom678/Care.xyz
 
 ---
 
@@ -77,6 +78,7 @@ Stack: `React` `Node.js` `Express` `MongoDB`
 - Secure backend API  
 
 🔗 Live: https://loanlinkph.netlify.app/
+🔗 Code: https://github.com/Pritom678/loan-link
 
 ---
 
